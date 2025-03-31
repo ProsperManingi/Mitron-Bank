@@ -6,3 +6,12 @@ This a sam[le dataset provided by Mitron Bank management as they consider launch
 ![Screenshot (63)](https://github.com/user-attachments/assets/d0f6ba44-5944-4fb7-8e1d-277d00ad2829)
 
 ## Data Source
+The primary datasets include: "dim_cusomer.csv" and "facts_spends.csv" these contain the the key information of the customers of Mitron bank.
+
+## Tools Used
+- MS Ecel
+- MS SQL Server
+- MS Power BI
+
+## Data Cleaning & Preparation
+
