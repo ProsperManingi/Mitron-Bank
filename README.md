@@ -14,4 +14,14 @@ The primary datasets include: "dim_cusomer.csv" and "facts_spends.csv" these con
 - MS Power BI
 
 ## Data Cleaning & Preparation
+In the intial data preparation phase, we peformed the following tasks:
+
+- Clean the datasets usin Ms Excel to remove any duplicates or to correct any missing values.
+- Created a database on SQL server for Mitron Bank.
+- Then added tables to the database using the csv files.
+- Joined the tables to form 1 with comprehensive report.
+- Then transformed the data to Power BI for visualisation.
+
+## Explanatory Data Analysis
+
 
