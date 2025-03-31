@@ -1,4 +1,14 @@
 # Mitron-Bank-Sample-Dashboard
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Preparation](#data-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results/Findings](#results/findings)
+- [Recommendations](#recommendations)
 
 ## Project Overview
 This a sam[le dataset provided by Mitron Bank management as they consider launching a new credit card for their customers based on the findings of the analysis. The sample dataset has a total of 4000 customers who are spread across 5 different cities.
